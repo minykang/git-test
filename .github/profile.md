@@ -9,7 +9,7 @@
 </p>
 
 <br/>
-<hr/>
+
 <br/>
 
 ## 👑 Algorithm Ranking
@@ -20,8 +20,8 @@
 </p>
 
 <br/>
-<hr/>
-<br/>
+
+
 
 ## ✅ Projects
 
